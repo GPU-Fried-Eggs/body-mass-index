@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">body-mass-index</string>
+    <string name="body_mass_index">Body mass index</string>
+</resources>
